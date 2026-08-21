@@ -1,6 +1,6 @@
 # Hi , I'm Anuj Upadhyay
 
-B.Tech CSE Student | IoT Developer | Frontend Learner | Problem Solver
+B.Tech CSE Student | Cse core learner | Frontend Learner | Problem Solver
 
 Software developer specializing in IoT solutions, with hands-on experience building connected systems — sensor integration, embedded firmware, and cloud-connected backends. Skilled in backend development and DSA-driven problem solving, with a focus on writing efficient, production-ready code.
 

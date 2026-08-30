@@ -73,7 +73,7 @@ Computer Science student with a strong foundation in Data Structures & Algorithm
 
 #  Contribution Graph
 
-[![Raj Vardhan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anujupadhyay2207&theme=github-dark)](https://github.com/anujupadhyay2207)
+[![Anuj Upadhyay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anujupadhyay2207&theme=github-dark)](https://github.com/anujupadhyay2207)
 
 ---
 

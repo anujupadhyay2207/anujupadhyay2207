@@ -6,16 +6,16 @@ Computer Science student with a strong foundation in Data Structures & Algorithm
 
 ---
 
-# About Me
+## About Me
 
--💻 Strengthening CSE Core fundamentals — DSA, OOP, DBMS, OS, Computer Networks & System Design.
--☕ Java Learner — focusing on OOP, collections, problem solving and efficient coding 
--🧩 Practicing DSA regularly — solving algorithmic problems on LeetCode 
--🌐 Exploring Software Development — building responsive and practical web applications
--🔧 Hands-on with IoT — Raspberry Pi, ESP8266, ESP32, Arduino, Node-RED & MQTT
--☁️ Learning Backend & Cloud Integration — connecting applications with APIs, databases and cloud services
--🚀 Interested in Open Source & Software Projects — looking to collaborate and learn
--🎯 Goal: Become a strong Software Engineer with expertise in CSE Core, DSA & Backend Development
+- 💻 Strengthening **CSE Core fundamentals** — DSA, OOP, DBMS, OS, Computer Networks & System Design  
+- ☕ **Java Learner** — focusing on OOP, collections, problem solving and efficient coding  
+- 🧩 **Practicing DSA regularly** — solving algorithmic problems on LeetCode  
+- 🌐 **Exploring Software Development** — building responsive and practical web applications  
+- 🔧 **Hands-on with IoT** — Raspberry Pi, ESP8266, ESP32, Arduino, Node-RED & MQTT  
+- ☁️ **Learning Backend & Cloud Integration** — connecting applications with APIs, databases and cloud services  
+- 🚀 **Interested in Open Source & Software Projects** — looking to collaborate and learn  
+- 🎯 **Goal:** Become a strong Software Engineer with expertise in CSE Core, DSA & Backend Development
 
 ---
 

@@ -1,20 +1,21 @@
-# Hi , I'm Anuj Upadhyay
+# Hi, I'm Anuj Upadhyay
 
-B.Tech CSE Student | Cse core learner | Frontend Learner | Problem Solver
+B.Tech CSE Student | CSE Core Learner | Software Developer | Problem Solver
 
-Software developer specializing in IoT solutions, with hands-on experience building connected systems — sensor integration, embedded firmware, and cloud-connected backends. Skilled in backend development and DSA-driven problem solving, with a focus on writing efficient, production-ready code.
+Computer Science student with a strong foundation in Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks, and Software Development. Interested in building efficient and scalable software solutions, with hands-on experience in Java, backend development, IoT, and web technologies. Focused on strengthening core CS concepts and solving real-world problems through clean and efficient code.
 
 ---
 
 # About Me
 
-- 🔭 Currently building **IoT systems** with `Raspberry Pi`, `ESP8266`, `ESP32`, `Arduino`, `Node-RED` & `MQTT`
-- 💻 Sharpening **Java**, **DSA**, and **System Design** fundamentals for scalable software
-- 🎨 Growing my **Frontend Development** skills — building clean, responsive UIs
-- ☁️ Exploring **Cloud integration for IoT** — pushing sensor data to the cloud and back
-- 🧩 Solving algorithmic problems daily on **LeetCode**
-- 🌱 Actively looking to **collaborate on Open Source, IoT, and Frontend projects**
-- 🎯 **Goal:** Software Engineer specializing in **Frontend Development + IoT**
+-💻 Strengthening CSE Core fundamentals — DSA, OOP, DBMS, OS, Computer Networks & System Design
+-☕ Java Learner — focusing on OOP, collections, problem solving and efficient coding
+-🧩 Practicing DSA regularly — solving algorithmic problems on LeetCode
+-🌐 Exploring Software Development — building responsive and practical web applications
+-🔧 Hands-on with IoT — Raspberry Pi, ESP8266, ESP32, Arduino, Node-RED & MQTT
+-☁️ Learning Backend & Cloud Integration — connecting applications with APIs, databases and cloud services
+-🚀 Interested in Open Source & Software Projects — looking to collaborate and learn
+-🎯 Goal: Become a strong Software Engineer with expertise in CSE Core, DSA & Backend Development
 
 ---
 
